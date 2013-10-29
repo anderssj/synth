@@ -2,3 +2,5 @@
 *.browse
 *.pbi
 *.cout
+*.o
+*.out
